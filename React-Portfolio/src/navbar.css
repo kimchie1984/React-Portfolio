@@ -5,6 +5,12 @@
 }
 
 
+.app-container {
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+
 body {
   background: #000000;
   font-family: 'Oxygen', sans-serif;
